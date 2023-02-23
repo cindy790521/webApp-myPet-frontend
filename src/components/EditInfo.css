@@ -1,0 +1,14 @@
+ .formAlign{
+  text-align: center;
+  display:flex;
+  font-size: 1.5rem;
+  color:rgb(3, 54, 22);
+  display: flex; 
+ } 
+
+.editcontainer {
+    display: flex; 
+    flex-direction: row;
+    background-color: 'white'; 
+    outline-offset: -20px;
+  }  

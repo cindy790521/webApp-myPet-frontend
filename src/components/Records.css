@@ -1,0 +1,25 @@
+.recordIcon {
+    height: 30px;
+    width: min-content
+}
+
+.recordRow {
+    margin-top: 18px;
+    text-align: center;
+}
+
+.attribution {
+    font-size: 5px;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.recordsCard {
+    width: 50rem;
+    align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2rem;
+}

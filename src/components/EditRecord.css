@@ -1,0 +1,12 @@
+.recordForm {
+    text-align: center;
+    display: flex;
+    font-size: 1.2rem;
+    color: rgb(3, 54, 22);
+    /* display: flex;  */
+}
+
+.select {
+    display: flex;
+    font-size: 1rem;
+}

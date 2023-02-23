@@ -1,0 +1,30 @@
+.welcomeText{
+  font-size: 4rem;
+  margin-top: 100;
+  color:#3525034b
+}
+
+.ref{
+  font-size:xx-small;
+}
+
+.grid{
+  text-align: left;
+  margin-top: 500;
+  height:2em;
+}
+
+.backgroundPic{
+  background-image:url("/public/images/background.jpg");
+  background-repeat:round;
+  background-size:50%;
+  opacity: 0.;
+
+}
+
+.allfont{
+  font-size: 1.5rem;
+  font-family: 'Varela Round', sans-serif;
+  color:rgb(50, 30, 5);
+  background-image:url("/public/images/background.jpg")
+}
